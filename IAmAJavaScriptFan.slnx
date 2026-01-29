@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IAmAJavaScriptFan.Test.Unit/IAmAJavaScriptFan.Test.Unit.csproj" />
+  <Project Path="IAmAJavaScriptFan/IAmAJavaScriptFan.csproj" />
+</Solution>

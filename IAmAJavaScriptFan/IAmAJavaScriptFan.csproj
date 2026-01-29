@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    
+    <PropertyGroup>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>IAmAJavaScriptFan</Title>
+        <Authors>psdlex</Authors>
+        <Description>Welcome to javascript.</Description>
+        <PackageProjectUrl>https://github.com/psdlex/IAmAJavaScriptFan</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/psdlex/IAmAJavaScriptFan</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>js;javascript</PackageTags>
+    </PropertyGroup>
+
+</Project>
